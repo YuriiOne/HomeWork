@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(Rectangle.Name);
         Rectangle r = new Rectangle(0, 0);
-        System.out.println("Square: " + r.square());
+        System.out.println("Square1: " + r.square());
     }
 }
+
